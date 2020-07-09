@@ -10,5 +10,5 @@ I'm a front-end developer from China.
 
 ### Get in touch
 
-- Twitter [@EryouHao](https://twitter.com/EryouHao)
+- Twitter: [@EryouHao](https://twitter.com/EryouHao)
 - Personal site (Being created): [fehey.com](https://fehey.com)
