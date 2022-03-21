@@ -1,4 +1,4 @@
-<img align="left" src="https://i.loli.net/2020/06/26/ov6QVN8TtfsFcRp.png" alt="Eryou Hao" width=285px height=384px/>
+<!-- <img align="left" src="https://i.loli.net/2020/06/26/ov6QVN8TtfsFcRp.png" alt="Eryou Hao" width=285px height=384px/> -->
 
 Hi, my name is **Eryou Hao**.
 
@@ -13,4 +13,4 @@ I'm a front-end developer from China.
 ### Get in touch
 
 - Twitter: [@EryouHao](https://twitter.com/EryouHao)
-- Personal site (Being created): [fehey.com](https://fehey.com)
+- Personal site: [fehey.com](https://fehey.com)
