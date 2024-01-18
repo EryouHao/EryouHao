@@ -4,6 +4,10 @@ Hi, my name is **Eryou Hao**.
 
 I'm a front-end developer from China.
 
+### My Project
+
+- [Gridea](https://gridea.dev) - 🌐 A full-featured Blog tool providing writing, hosting, and custom domain x 💡 A lightweight thought box
+
 ### My open-source projects
 
 - [Gridea](https://github.com/getgridea/gridea) - A static blog writing client
